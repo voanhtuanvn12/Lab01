@@ -1,4 +1,4 @@
-# Lab01
+# Lab01 - Võ Anh Tuấn - 1512641
 
 ## Bài tập xử lý ảnh
 Gồm có <br />
